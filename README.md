@@ -2,7 +2,7 @@
 
 This portfolio is a small project using HTML/CSS and Bootstrap. I will be using this to showcase my projects!
 
-[Live Heroku Deployment](https://portfolio-darlington.herokuapp.com/)
+[Live Heroku Deployment](https://kabir-portfolio.herokuapp.com/)
 
 ![image](https://user-images.githubusercontent.com/107377018/181362116-c7fa8a5f-6993-4220-9628-869a341d2455.png)
 
