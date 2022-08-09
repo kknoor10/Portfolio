@@ -4,7 +4,7 @@ This portfolio is a small project using HTML/CSS and Bootstrap. I will be using 
 
 [Live Heroku Deployment](https://kabir-portfolio.herokuapp.com/)
 
-![image](https://user-images.githubusercontent.com/107377018/181362116-c7fa8a5f-6993-4220-9628-869a341d2455.png)
+![image](https://user-images.githubusercontent.com/102506153/183554570-5bebcb2c-7805-40c3-96e8-318c892f9875.png)
 
 
 ## Technologies Used
